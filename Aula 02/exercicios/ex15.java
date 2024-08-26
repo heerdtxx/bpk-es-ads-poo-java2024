@@ -25,8 +25,10 @@ public class ex15 {
         } else {
             System.out.println("Opção inválida.");
         }
-
-
     }
-
 }
+
+const adolfo =
+        {
+
+        }
